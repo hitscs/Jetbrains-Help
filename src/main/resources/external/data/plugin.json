@@ -1608,5 +1608,19 @@
     "name": "Zookeeper-Admin",
     "pricingModel": "PAID",
     "icon": "https://plugins.jetbrains.com"
+  },
+  {
+    "id": 22407,
+    "productCode": "PRR",
+    "name": "Rust",
+    "pricingModel": "PAID",
+    "icon": "https://plugins.jetbrains.com/files/22407/542575/icon/pluginIcon.svg"
+  },
+  {
+    "id": 17501,
+    "productCode": "PISCRATCH",
+    "name": "Code Note",
+    "pricingModel": "PAID",
+    "icon": "https://plugins.jetbrains.com/files/17501/555075/icon/pluginIcon.svg"
   }
 ]
